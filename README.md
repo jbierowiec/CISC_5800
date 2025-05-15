@@ -1,1 +1,2 @@
-# CISC_5800
+# CISC 5800 Machine Learning Final Project
+
